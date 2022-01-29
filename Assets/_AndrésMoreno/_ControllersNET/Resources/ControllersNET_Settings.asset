@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5af4793bc630647859b6e56f01903e, type: 3}
+  m_Name: ControllersNET_Settings
+  m_EditorClassIdentifier: "Andr\xE9sMoreno:Andr\xE9sMoreno:ControllersNET_Settings"
+  controllersAssets:
+  - {fileID: 6226589692147062314, guid: cff3596a743450d41b76ba276a6cbae8, type: 3}
+  - {fileID: 7292247898747764509, guid: 37c7fc93cdde0694598c40acf75c500d, type: 3}
+  - {fileID: 7292247898747764509, guid: d974768398738894fabdb9f1c6a84337, type: 3}

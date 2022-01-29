@@ -1,0 +1,11 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using AndresMoreno;
+ 
+namespace #PROJECTNAME#.Controller {
+    public class #SCRIPTNAME# : MonoBehaviour, IControllersNET {
+        private void Awake(){
+	    }
+    }
+}
